@@ -38,7 +38,7 @@ const secondDelivery = document.getElementById("delivery-second").addEventListen
 
 document.getElementById("promo-btn").addEventListener("click" ,function(){
   const promoInput = document.getElementById("promo-Input");
-  if(promoInput.value=="stevekaku"){
+  if(promoInput.value=="stevekaku "){
       const promoOutput=document.getElementById("last-total");
       const promoParcentage=promoOutput.innerText*20/100;
       promoOutput.innerText=promoOutput.innerText-promoParcentage;
