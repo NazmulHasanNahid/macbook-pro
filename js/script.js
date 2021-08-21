@@ -44,5 +44,5 @@ document.getElementById("promo-btn").addEventListener("click" ,function(){
       promoOutput.innerText=promoOutput.innerText-promoParcentage;
   }
   document.getElementById("promo-btn").disabled=true;
-  promoInput.value=""
+  promoInput.value="" 
 })
