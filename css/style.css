@@ -1,0 +1,16 @@
+body{
+  text-transform: capitalize;
+}
+
+/* button style */
+.custom-button{
+ border: 1px solid rgb(25, 130, 190);
+ border-radius: 5px;
+}
+.custom-button:hover{
+ background: rgb(25, 130, 190);
+ color: white;
+}
+.custom-color{
+  color:rgb(25, 130, 190) ;
+}
