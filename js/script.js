@@ -70,8 +70,3 @@ function netPrice() {
 }
 
 
-/* let myprice = amountss;
-        let devicePrice = myprice / 100;
-    if (inputTexts.innerText == "stevekaku") {
-        let total = devicePrice * 80   /////
-        let totals = cuponCode = parseInt(total) */
